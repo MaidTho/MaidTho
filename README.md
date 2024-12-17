@@ -2,12 +2,11 @@
 
 
 
-- 🔭 I’m currently working on making a video game!
-- 🌱 I’m currently learning C# / Unity 6
+- 🔭 I’m currently working on making a Website!
+- 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on anything with Python, Web Development, Automation or Power Platform related!
 
 **<h3 align="left">GitHub Stats</h3>**
-
 
 <p align="left">
   <img width="48%" src="https://streak-stats.vercel.app?user=maidtho&theme=react" alt="GitHub Streak" />
